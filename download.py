@@ -13,7 +13,7 @@ if link.startswith("http://"):
 	link = link[7:]
 
 
-# https://online.pubhtml5.com/tmuo/fqto/files/large/1.jpg
+# http://online.pubhtml5.com/tmuo/fqto/files/large/1.jpg
 if link.endswith("/"):
     link = link[:-1] 
 
